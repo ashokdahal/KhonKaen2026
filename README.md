@@ -12,3 +12,13 @@ course material for khon kaen
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="U-Net"/>
 </a>
 
+## Excercise Material Day 2
+### LiCSBAS for InSAR
+<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/KhonKaen2026/blob/main/Day2/Excercise/InSAR.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="OpenEO"/>
+</a>
+
+### Recurrent Neural Network
+<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/KhonKaen2026/blob/main/Day2/Excercise/GRUInSAR.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="U-Net"/>
+</a>
