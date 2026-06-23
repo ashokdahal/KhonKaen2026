@@ -22,3 +22,19 @@ course material for khon kaen
 <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/KhonKaen2026/blob/main/Day2/Excercise/GRUInSAR.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="U-Net"/>
 </a>
+
+## Excercise Material Day 3
+### Segformer
+<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/KhonKaen2026/blob/main/Day3/Excercise/Segformer.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Segformer"/>
+</a>
+
+### Generative AI
+<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/KhonKaen2026/blob/main/Day3/Excercise/GenAI.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="GenAI"/>
+</a>
+
+### Foundation Model Fine-tuning
+<a target="_blank" href="https://colab.research.google.com/github/ashokdahal/KhonKaen2026/blob/main/Day3/Excercise/FoundationAI.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Flood"/>
+</a>
